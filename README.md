@@ -1,5 +1,3 @@
-# mywebdev-bienesraices
+Desarrollo Web - Bienes raíces
 
-Páginas web creadas para practicar HTML, CSS y GitHub. 
-
-Posteriormente actualizaré los archivos con el agregado de JavaScript.
+Página web creada a partir de mis primeros pasos en el desarollo web. Sólo cuenta con HTML y CSS para comenzar y, a medida que pueda avanzar, JavaScript se hará presente. 
